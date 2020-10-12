@@ -2,6 +2,6 @@
 
 Hello world
 
-<!-- {% include figure.html %} -->
+{% include figure.html %}
 
 Line 2
