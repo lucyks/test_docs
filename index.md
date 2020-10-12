@@ -2,8 +2,6 @@
 
 Hello world
 
-{% include figure.html %}
+{% include figure2.html %}
 
-Line 2
-
-{% include testplot.txt %}
+Line 3
